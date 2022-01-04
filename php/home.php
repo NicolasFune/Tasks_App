@@ -27,6 +27,6 @@
     
     
     <script src="../bootstrap-5/js/bootstrap.js"></script>
-   
+   <script src="../js/script.js"></script>
 </body>
 </html>
