@@ -5,12 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="bootstrap-5/css/bootstrap.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../bootstrap-5/css/bootstrap.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
-    <title>Tasks App</title>
+    <link rel="shortcut icon" href="../img\tasks.png" type="image/x-icon">
+    <title>Tasks App - Home</title>
 </head>
-<body style="background-image: linear-gradient(rgb(168, 0, 202),white); background-repeat: no-repeat;width: 100vw;height: 100vh;" >
+<body style="background-image: linear-gradient(#2d80e2 ,white); background-repeat: no-repeat;width: 100vw;height: 100vh;" >
 
     <div class="container pt-5">
         <div class="input-group">
@@ -26,7 +27,7 @@
     </div>
     
     
-    <script src="bootstrap-5/js/bootstrap.js"></script>
-    <script src="js/script.js"></script>
+    <script src="../bootstrap-5/js/bootstrap.js"></script>
+   
 </body>
 </html>

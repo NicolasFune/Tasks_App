@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'login-light';
+    src: url(../fonts/Quicksand-Light.ttf);
+}
+@font-face {
+    font-family: 'login-bold';
+    src: url(../fonts/Quicksand-Bold.ttf);
+}
+@font-face {
+    font-family: 'login-medium';
+    src: url(../fonts/Quicksand-Medium.ttf);
+}
